@@ -11,6 +11,7 @@ namespace Github2
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo");
+            Console.WriteLine("Olá Mumdo 2");
         }
     }
 }
